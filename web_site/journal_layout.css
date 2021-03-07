@@ -1,0 +1,22 @@
+.content{
+	background-image: url("https://www.freevector.com/uploads/vector/preview/28767/Japanese_Wave_Seamless_Pattern.jpg");
+}
+.date{
+	border-bottom: 2px dashed blue;
+}
+.greenblock{
+	border: 10px solid white;
+	background-color: white;
+	margin: 0% 10% auto;
+}
+.redblock{
+	background-color: #a8f0f0;
+	text-align: right;
+}
+.blueblock{
+	border: 4px solid blue;
+	background-color: #e8fbfb;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+}
